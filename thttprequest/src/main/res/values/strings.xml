@@ -1,3 +1,12 @@
 <resources>
+
     <string name="app_name">THttpRequest</string>
+
+    <string name="develop_base_url">https://develop.net</string>
+    <string name="release_base_url">https://release.net</string>
+
+    <string name="api_client_id">client_id</string>
+    <string name="api_client_secret">client_secret</string>
+
+
 </resources>
