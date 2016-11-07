@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/THttpRequest.iml" filepath="$PROJECT_DIR$/THttpRequest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thttprequest/thttprequest.iml" filepath="$PROJECT_DIR$/thttprequest/thttprequest.iml" />
     </modules>
   </component>
 </project>
